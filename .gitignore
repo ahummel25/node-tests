@@ -1,0 +1,5 @@
+node_modules
+.idea
+*.log
+id_rsa_ahummel25
+set_ssh.sh
